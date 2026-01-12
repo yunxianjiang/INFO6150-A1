@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    color: darkblue;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+}
+
+#age-verification {
+    background-color: lightyellow;
+    padding: 30px;
+    border: 3px solid orange;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#age-input {
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+    margin: 10px;
+}
+
+#submit-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#message {
+    font-weight: bold;
+    color: red;
+    margin-top: 10px;
+}
+
+#product-page {
+    background-color: white;
+    padding: 30px;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 20px auto;
+    border: 3px solid gray;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+strong {
+    color: red;
+    font-size: 20px;
+}
+
+.hidden {
+    display: none;
+}
